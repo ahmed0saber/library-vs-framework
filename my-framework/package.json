@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "start": "node framework.js"
+    },
+    "type": "module"
+}
